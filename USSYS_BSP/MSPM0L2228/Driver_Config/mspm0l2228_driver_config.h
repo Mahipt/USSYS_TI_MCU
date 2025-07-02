@@ -1,0 +1,6 @@
+#ifndef __MSPM0L2228_DRIVER_CONFIG_H__
+#define __MSPM0L2228_DRIVER_CONFIG_H__
+
+
+
+#endif
