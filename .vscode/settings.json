@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "project_config.h": "c",
+        "main.h": "c"
+    }
+}
